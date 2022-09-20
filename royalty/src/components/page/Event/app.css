@@ -1,0 +1,39 @@
+.event-body {
+  background-image: url(../../../asset/background-image.png);
+  height: 140vh;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  z-index: 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+.nav-list {
+  margin-top: -32px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  font-size: 2rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-weight: 700;
+}
+
+Input[type="search"] {
+  padding: 10px;
+  width: 350px;
+  color: white;
+  border: 2px solid white;
+}
+
+.fs-24 {
+    font-size: 1.2rem;
+}
+
+.mr {
+  margin-right: 32px;
+}
+
