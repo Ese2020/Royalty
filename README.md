@@ -1,2 +1,0 @@
-# Royalty
-Hello Earthlings
